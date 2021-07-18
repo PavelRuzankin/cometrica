@@ -2,7 +2,7 @@ import React from 'react';
 
 import Header from "./components/Header"
 import Body from './components/Body';
-import Modal from './Modal';
+import Modal from './components/Modal';
 
 const App: React.FC = (): React.ReactElement => {
   return (

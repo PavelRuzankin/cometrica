@@ -1,6 +1,6 @@
 import _ from "lodash"
 import React from "react"
-import { Option, Starship } from "../context/types"
+import { Option, Starship } from "../../context/types"
 import { ItemWrapper, Place, Item, ItemHeader } from "./modalStyled"
 
 interface ModalItemProps {

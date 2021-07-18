@@ -1,10 +1,10 @@
 import React from 'react'
 import _ from 'lodash'
 
-import { Button } from '../components/UI/uiStyled'
+import { Button } from '../UI/uiStyled'
 import ModalItem from './ModalItem'
 
-import { useData } from '../context'
+import { useData } from '../../context'
 
 import { ModalWrapper, ModalBlock, ModalHeader, Title, ModalBody } from "./modalStyled"
 
